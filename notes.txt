@@ -1,0 +1,2 @@
+In the package.json file, I added {start: "node index.js"} to the script section. 
+This helps me to run the npm start in the render website. Render is used as a deployment website.
